@@ -1,0 +1,9 @@
+name: processing
+channels:
+  - defaults
+dependencies:
+  - python>=3.7
+  - numpy>=1.15.0
+  - scipy>=1.1.0
+  - jupyter
+  - conda-forge::pylops
