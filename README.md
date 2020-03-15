@@ -18,7 +18,7 @@ accept the default choices.
 After insalling the Anaconda distribution on your computer, you need to create a
 **[conda environment](https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/environments.html)**.
 To do so, you first need to download the
-[environment.yml file](environment.yml)
+[environment.yml](environment.yml) file
 from this repository. Make sure you remember the folder where you download this
 file. Then, you need to open a terminal window and do the following:
 
