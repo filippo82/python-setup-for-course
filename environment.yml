@@ -5,5 +5,6 @@ dependencies:
   - python>=3.7
   - numpy>=1.15.0
   - scipy>=1.1.0
+  - matplotlib
   - jupyter
   - conda-forge::pylops

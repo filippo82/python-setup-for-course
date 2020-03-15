@@ -35,4 +35,30 @@ In the sequence of commands above, you need to replace
 contains the downloaded `environment.yml` file.
 
 ## Step 3
-Test it.
+To make sure that the conda environment has been correctly installed,
+you should first start the Juypter server:
+
+```shell
+jupyter notebook
+```
+
+Then you need to open one of the provided Notebooks:
+
+![Open a Notebook](open_notebook.png)
+
+The first time you open a Notebook with this conda environment,
+you will need to change the kernel. The screenshot below shows how to do so:
+
+![Change kernel](change_kernel.png)
+
+Once you are done working with a Notebook, you should save it and close it:
+
+![Close a Notebook](close_notebook.png)
+
+Finally, you can shutdown the Jupyter server:
+
+![Quit Jupyter](quit_jupyter.png)
+
+# Need help?
+If you any issues with the installation and validation process outlined above,
+please contact [XXX](mailto:xx.xx@erdw.ethz.ch).
